@@ -40,5 +40,5 @@
     "client": "react-scripts start"
   },
   
-  "proxy": "https://phonelassoend.vercel.app/product"
+  "proxy": "https://phonelassoend.vercel.app"
 }
