@@ -20,9 +20,11 @@ const connectDb = async () => {
 }
 
 connectDb()
+//ss
 
 app.use(helmet());
 app.use(cookieParser());
+
 
 var sess = {
   secret: process.env.SESSION_SECRET,

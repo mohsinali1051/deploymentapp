@@ -40,5 +40,5 @@
     "client": "react-scripts start"
   },
   
-  "proxy": "http://localhost:5000"
+  "proxy": "https://phonelassoend.vercel.app/product"
 }
